@@ -1,0 +1,940 @@
+[21-Jul-2021 21:38:10 UTC] PHP Notice:  Undefined index: submit in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 15
+[21-Jul-2021 21:38:10 UTC] PHP Stack trace:
+[21-Jul-2021 21:38:10 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 21:39:03 UTC] PHP Notice:  Undefined variable: studentName in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 21
+[21-Jul-2021 21:39:03 UTC] PHP Stack trace:
+[21-Jul-2021 21:39:03 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:39:03 UTC] PHP   2. Page::header() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:41
+[21-Jul-2021 21:39:03 UTC] PHP Notice:  Undefined variable: studentID in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 21
+[21-Jul-2021 21:39:03 UTC] PHP Stack trace:
+[21-Jul-2021 21:39:03 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:39:03 UTC] PHP   2. Page::header() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:41
+[21-Jul-2021 21:41:40 UTC] PHP Notice:  Undefined index: submit in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 15
+[21-Jul-2021 21:41:40 UTC] PHP Stack trace:
+[21-Jul-2021 21:41:40 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 21:47:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:47:23 UTC] PHP Stack trace:
+[21-Jul-2021 21:47:23 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:47:23 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:47:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:47:57 UTC] PHP Stack trace:
+[21-Jul-2021 21:47:57 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:47:57 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:48:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:48:27 UTC] PHP Stack trace:
+[21-Jul-2021 21:48:27 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:48:27 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:38
+[21-Jul-2021 21:48:35 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Page::$notificaitons in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 25
+[21-Jul-2021 21:48:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:48:56 UTC] PHP Stack trace:
+[21-Jul-2021 21:48:56 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:48:56 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:49:00 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Page::$notificaitons in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 24
+[21-Jul-2021 21:50:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:50:06 UTC] PHP Stack trace:
+[21-Jul-2021 21:50:06 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:50:06 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:50:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:50:12 UTC] PHP Stack trace:
+[21-Jul-2021 21:50:12 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:50:12 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:50:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[21-Jul-2021 21:50:48 UTC] PHP Stack trace:
+[21-Jul-2021 21:50:48 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:50:48 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:51:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 79
+[21-Jul-2021 21:51:06 UTC] PHP Stack trace:
+[21-Jul-2021 21:51:06 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:51:06 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:51:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 79
+[21-Jul-2021 21:51:14 UTC] PHP Stack trace:
+[21-Jul-2021 21:51:14 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:51:14 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:37
+[21-Jul-2021 21:51:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 79
+[21-Jul-2021 21:51:45 UTC] PHP Stack trace:
+[21-Jul-2021 21:51:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:51:45 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:50
+[21-Jul-2021 21:51:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 81
+[21-Jul-2021 21:51:50 UTC] PHP Stack trace:
+[21-Jul-2021 21:51:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:51:50 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:36
+[21-Jul-2021 21:51:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 81
+[21-Jul-2021 21:51:50 UTC] PHP Stack trace:
+[21-Jul-2021 21:51:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:51:50 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:50
+[21-Jul-2021 21:52:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 81
+[21-Jul-2021 21:52:04 UTC] PHP Stack trace:
+[21-Jul-2021 21:52:04 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:52:04 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:36
+[21-Jul-2021 21:52:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 79
+[21-Jul-2021 21:52:14 UTC] PHP Stack trace:
+[21-Jul-2021 21:52:14 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:52:14 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:50
+[21-Jul-2021 21:52:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 79
+[21-Jul-2021 21:52:35 UTC] PHP Stack trace:
+[21-Jul-2021 21:52:35 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:52:35 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:48
+[21-Jul-2021 21:52:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 81
+[21-Jul-2021 21:52:40 UTC] PHP Stack trace:
+[21-Jul-2021 21:52:40 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 21:52:40 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:48
+[21-Jul-2021 21:57:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 21:57:03 UTC] PHP Stack trace:
+[21-Jul-2021 21:57:03 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:57:03 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 21:57:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 21:57:33 UTC] PHP Stack trace:
+[21-Jul-2021 21:57:33 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:57:33 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 21:58:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 21:58:29 UTC] PHP Stack trace:
+[21-Jul-2021 21:58:29 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:58:29 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 21:58:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 21:58:30 UTC] PHP Stack trace:
+[21-Jul-2021 21:58:30 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:58:30 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 21:58:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 21:58:31 UTC] PHP Stack trace:
+[21-Jul-2021 21:58:31 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 21:58:31 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 21:58:45 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 21:59:17 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Page::$notificaitons in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php:56
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 56
+[21-Jul-2021 22:00:16 UTC] PHP Notice:  Array to string conversion in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:00:16 UTC] PHP Stack trace:
+[21-Jul-2021 22:00:16 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:00:16 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:42
+[21-Jul-2021 22:02:50 UTC] PHP Notice:  Undefined index: image in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 26
+[21-Jul-2021 22:02:50 UTC] PHP Stack trace:
+[21-Jul-2021 22:02:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:02:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to User::setpicture() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 26 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\User.class.php:64
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(26): User->setpicture(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\User.class.php on line 64
+[21-Jul-2021 22:06:19 UTC] PHP Notice:  Undefined index: submit in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 15
+[21-Jul-2021 22:06:19 UTC] PHP Stack trace:
+[21-Jul-2021 22:06:19 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:12:18 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayUserProfileSection() must be an instance of User, bool given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 22 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:34
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(22): Page::displayUserProfileSection(false)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 34
+[21-Jul-2021 22:12:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayUserProfileSection() must be an instance of User, bool given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 22 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:34
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(22): Page::displayUserProfileSection(false)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 34
+[21-Jul-2021 22:13:57 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 20
+[21-Jul-2021 22:13:57 UTC] PHP Stack trace:
+[21-Jul-2021 22:13:57 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:13:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 20 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(20): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:14:52 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 20
+[21-Jul-2021 22:14:52 UTC] PHP Stack trace:
+[21-Jul-2021 22:14:52 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:14:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(21): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:15:04 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 20
+[21-Jul-2021 22:15:04 UTC] PHP Stack trace:
+[21-Jul-2021 22:15:04 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:15:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 22 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(22): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:15:13 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 20
+[21-Jul-2021 22:15:13 UTC] PHP Stack trace:
+[21-Jul-2021 22:15:13 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:15:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 22 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(22): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:16:38 UTC] PHP Notice:  Undefined variable: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21
+[21-Jul-2021 22:16:38 UTC] PHP Stack trace:
+[21-Jul-2021 22:16:38 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:16:38 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(21): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:16:52 UTC] PHP Notice:  Undefined variable: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21
+[21-Jul-2021 22:16:52 UTC] PHP Stack trace:
+[21-Jul-2021 22:16:52 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:16:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(21): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 22:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 27
+[21-Jul-2021 22:50:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 22:50:47 UTC] PHP Stack trace:
+[21-Jul-2021 22:50:47 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:50:47 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 92
+[21-Jul-2021 22:51:27 UTC] PHP Stack trace:
+[21-Jul-2021 22:51:27 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:51:27 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:52:58 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:53:00 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:53:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:53:13 UTC] PHP Stack trace:
+[21-Jul-2021 22:53:13 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:53:13 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:54:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:54:02 UTC] PHP Stack trace:
+[21-Jul-2021 22:54:02 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:54:02 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:54:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:54:05 UTC] PHP Stack trace:
+[21-Jul-2021 22:54:05 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:54:05 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:54:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:54:55 UTC] PHP Stack trace:
+[21-Jul-2021 22:54:55 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:54:55 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:54:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:54:57 UTC] PHP Stack trace:
+[21-Jul-2021 22:54:57 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:54:57 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:54:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:54:58 UTC] PHP Stack trace:
+[21-Jul-2021 22:54:58 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:54:58 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:55:01 UTC] PHP Notice:  Uninitialized string offset: 0 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 77
+[21-Jul-2021 22:55:01 UTC] PHP Stack trace:
+[21-Jul-2021 22:55:01 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[21-Jul-2021 22:55:01 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:50
+[21-Jul-2021 22:55:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:55:05 UTC] PHP Stack trace:
+[21-Jul-2021 22:55:05 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:55:05 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:55:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 93
+[21-Jul-2021 22:55:15 UTC] PHP Stack trace:
+[21-Jul-2021 22:55:15 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:55:15 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:56:15 UTC] PHP Notice:  Array to string conversion in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 95
+[21-Jul-2021 22:56:15 UTC] PHP Stack trace:
+[21-Jul-2021 22:56:15 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[21-Jul-2021 22:56:15 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:43
+[21-Jul-2021 22:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::setpassword() in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 22
+[21-Jul-2021 22:58:33 UTC] PHP Notice:  Undefined variable: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21
+[21-Jul-2021 22:58:33 UTC] PHP Stack trace:
+[21-Jul-2021 22:58:33 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[21-Jul-2021 22:58:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 21 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(21): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[21-Jul-2021 23:01:59 UTC] PHP Notice:  Undefined index: submit in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 33
+[21-Jul-2021 23:01:59 UTC] PHP Stack trace:
+[21-Jul-2021 23:01:59 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 07:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 24
+[22-Jul-2021 07:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 24
+[22-Jul-2021 07:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 24
+[22-Jul-2021 07:57:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 21
+[22-Jul-2021 07:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 22
+[22-Jul-2021 08:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function verifyPassword() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php on line 22
+[22-Jul-2021 08:16:02 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(23): Page::displayUserProfileSection(Object(User))
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 42
+[22-Jul-2021 08:20:50 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:20:50 UTC] PHP Stack trace:
+[22-Jul-2021 08:20:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:20:50 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+[22-Jul-2021 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getavatar_name() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:162
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:21:26 UTC] PHP Deprecated:  Non-static method User::getavatar_name() should not be called statically in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:21:26 UTC] PHP Stack trace:
+[22-Jul-2021 08:21:26 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:21:26 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+[22-Jul-2021 08:21:26 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\User.class.php:30
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php(162): User::getavatar_name()
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\User.class.php on line 30
+[22-Jul-2021 08:22:51 UTC] PHP Notice:  Undefined variable: avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:22:51 UTC] PHP Stack trace:
+[22-Jul-2021 08:22:51 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:22:51 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+[22-Jul-2021 08:22:51 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:162
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:23:13 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:162
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:23:26 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: User::$avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:162
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:28:04 UTC] PHP Notice:  Undefined variable: us in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:28:04 UTC] PHP Stack trace:
+[22-Jul-2021 08:28:04 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:28:04 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+[22-Jul-2021 08:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getavatar_name() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:162
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:29:33 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 08:29:33 UTC] PHP Stack trace:
+[22-Jul-2021 08:29:33 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:29:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayLogoutSection() must be an instance of User, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:30:24 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:30:24 UTC] PHP Stack trace:
+[22-Jul-2021 08:30:24 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:30:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:32:32 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 23
+[22-Jul-2021 08:33:13 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35
+[22-Jul-2021 08:33:13 UTC] PHP Stack trace:
+[22-Jul-2021 08:33:13 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:33:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(35): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:33:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayLogoutSection() must be an instance of User, string given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(35): Page::displayLogoutSection('')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:36:27 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35
+[22-Jul-2021 08:36:27 UTC] PHP Stack trace:
+[22-Jul-2021 08:36:27 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:36:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(35): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:37:36 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 36
+[22-Jul-2021 08:37:36 UTC] PHP Stack trace:
+[22-Jul-2021 08:37:36 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:37:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 36 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(36): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:37:55 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 08:37:55 UTC] PHP Stack trace:
+[22-Jul-2021 08:37:55 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:37:55 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:38:28 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 08:38:28 UTC] PHP Stack trace:
+[22-Jul-2021 08:38:28 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:38:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:40:34 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 14
+[22-Jul-2021 08:40:34 UTC] PHP Stack trace:
+[22-Jul-2021 08:40:34 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:40:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayLogoutSection() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(35): Page::displayLogoutSection(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:44:40 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 14
+[22-Jul-2021 08:44:40 UTC] PHP Stack trace:
+[22-Jul-2021 08:44:40 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:44:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Page::displayLogoutSection() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(35): Page::displayLogoutSection(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:45:07 UTC] PHP Notice:  Undefined index: email in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 14
+[22-Jul-2021 08:45:07 UTC] PHP Stack trace:
+[22-Jul-2021 08:45:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:45:07 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:45:07 UTC] PHP Stack trace:
+[22-Jul-2021 08:45:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:45:07 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+[22-Jul-2021 08:45:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php(162): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): Page::displayLogoutSection()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:45:30 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162
+[22-Jul-2021 08:45:30 UTC] PHP Stack trace:
+[22-Jul-2021 08:45:30 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:45:30 UTC] PHP   2. Page::displayLogoutSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:33
+[22-Jul-2021 08:45:30 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 162 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php(162): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(33): Page::displayLogoutSection()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(31): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(31): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(31): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(31): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(31): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:52:15 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 08:52:15 UTC] PHP Stack trace:
+[22-Jul-2021 08:52:15 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:52:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Page::displayLogoutSection(), 0 passed in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 36 and exactly 1 expected in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(36): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:52:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Page::displayLogoutSection(), 0 passed in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and exactly 1 expected in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:53:07 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:53:07 UTC] PHP Stack trace:
+[22-Jul-2021 08:53:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:53:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:54:16 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:54:16 UTC] PHP Stack trace:
+[22-Jul-2021 08:54:16 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:54:16 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 08:55:08 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:55:08 UTC] PHP Stack trace:
+[22-Jul-2021 08:55:08 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:55:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Page::displayLogoutSection(), 0 passed in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 38 and exactly 1 expected in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(38): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:55:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Page::displayLogoutSection(), 0 passed in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 38 and exactly 1 expected in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(38): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(33): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(33): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(34): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 08:57:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Page::displayLogoutSection(), 0 passed in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 39 and exactly 1 expected in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php:158
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(39): Page::displayLogoutSection()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 158
+[22-Jul-2021 08:58:18 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:58:18 UTC] PHP Stack trace:
+[22-Jul-2021 08:58:18 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:58:18 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 33
+[22-Jul-2021 08:58:18 UTC] PHP Stack trace:
+[22-Jul-2021 08:58:18 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 08:58:37 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 08:58:37 UTC] PHP Stack trace:
+[22-Jul-2021 08:58:37 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:03:34 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 33
+[22-Jul-2021 09:03:34 UTC] PHP Stack trace:
+[22-Jul-2021 09:03:34 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:03:59 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 29
+[22-Jul-2021 09:03:59 UTC] PHP Stack trace:
+[22-Jul-2021 09:03:59 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:04:07 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:04:07 UTC] PHP Stack trace:
+[22-Jul-2021 09:04:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:04:14 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 29
+[22-Jul-2021 09:04:14 UTC] PHP Stack trace:
+[22-Jul-2021 09:04:14 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:07:26 UTC] PHP Notice:  Undefined variable: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35
+[22-Jul-2021 09:07:26 UTC] PHP Stack trace:
+[22-Jul-2021 09:07:26 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:08:53 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 17
+[22-Jul-2021 09:08:53 UTC] PHP Stack trace:
+[22-Jul-2021 09:08:53 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:08:59 UTC] PHP Notice:  Undefined index: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35
+[22-Jul-2021 09:08:59 UTC] PHP Stack trace:
+[22-Jul-2021 09:08:59 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:09:33 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 17
+[22-Jul-2021 09:09:33 UTC] PHP Stack trace:
+[22-Jul-2021 09:09:33 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:09:40 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 17
+[22-Jul-2021 09:09:40 UTC] PHP Stack trace:
+[22-Jul-2021 09:09:40 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:10:16 UTC] PHP Notice:  Undefined index: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 35
+[22-Jul-2021 09:10:16 UTC] PHP Stack trace:
+[22-Jul-2021 09:10:16 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:10:44 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 17
+[22-Jul-2021 09:10:44 UTC] PHP Stack trace:
+[22-Jul-2021 09:10:44 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:11:50 UTC] PHP Notice:  Undefined index: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:11:50 UTC] PHP Stack trace:
+[22-Jul-2021 09:11:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:13:22 UTC] PHP Notice:  Undefined variable: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:13:22 UTC] PHP Stack trace:
+[22-Jul-2021 09:13:22 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:13:31 UTC] PHP Notice:  Undefined variable: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 33
+[22-Jul-2021 09:13:31 UTC] PHP Stack trace:
+[22-Jul-2021 09:13:31 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:13:42 UTC] PHP Notice:  Undefined variable: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:13:42 UTC] PHP Stack trace:
+[22-Jul-2021 09:13:42 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:13:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:14:00 UTC] PHP Notice:  Undefined variable: name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:14:00 UTC] PHP Stack trace:
+[22-Jul-2021 09:14:00 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:14:29 UTC] PHP Notice:  Undefined variable: n in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 34
+[22-Jul-2021 09:14:29 UTC] PHP Stack trace:
+[22-Jul-2021 09:14:29 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:16:27 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 17
+[22-Jul-2021 09:16:27 UTC] PHP Stack trace:
+[22-Jul-2021 09:16:27 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:16:27 UTC] PHP Notice:  Undefined index: n in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 18
+[22-Jul-2021 09:16:27 UTC] PHP Stack trace:
+[22-Jul-2021 09:16:27 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:16:32 UTC] PHP Notice:  Undefined index: n in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 18
+[22-Jul-2021 09:16:32 UTC] PHP Stack trace:
+[22-Jul-2021 09:16:32 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:21:14 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28
+[22-Jul-2021 09:21:14 UTC] PHP Stack trace:
+[22-Jul-2021 09:21:14 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:21:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(28): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 09:21:36 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28
+[22-Jul-2021 09:21:36 UTC] PHP Stack trace:
+[22-Jul-2021 09:21:36 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:21:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(28): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 09:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(28): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 09:22:11 UTC] PHP Notice:  Undefined index: loggedout in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28
+[22-Jul-2021 09:22:11 UTC] PHP Stack trace:
+[22-Jul-2021 09:22:11 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:22:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(28): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 09:22:13 UTC] PHP Notice:  Undefined index: loggedout in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28
+[22-Jul-2021 09:22:13 UTC] PHP Stack trace:
+[22-Jul-2021 09:22:13 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:22:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 28 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(28): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 09:25:56 UTC] PHP Notice:  Trying to get property 'loggedin' of non-object in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[22-Jul-2021 09:25:56 UTC] PHP Stack trace:
+[22-Jul-2021 09:25:56 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 09:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser('ashishgujral22@...')
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 19:03:09 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37
+[22-Jul-2021 19:03:09 UTC] PHP Stack trace:
+[22-Jul-2021 19:03:09 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 19:03:09 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 19:05:02 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37
+[22-Jul-2021 19:05:02 UTC] PHP Stack trace:
+[22-Jul-2021 19:05:02 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 19:05:02 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 19:08:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[22-Jul-2021 19:08:22 UTC] PHP Warning:  Use of undefined constant Lab08_profile_logout_AGu36004 - assumed 'Lab08_profile_logout_AGu36004' (this will throw an Error in a future version of PHP) in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[22-Jul-2021 19:08:22 UTC] PHP Stack trace:
+[22-Jul-2021 19:08:22 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[22-Jul-2021 19:08:22 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:55
+[22-Jul-2021 19:08:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 78
+[22-Jul-2021 19:08:22 UTC] PHP Stack trace:
+[22-Jul-2021 19:08:22 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[22-Jul-2021 19:08:22 UTC] PHP   2. Page::displayLoginSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:55
+[22-Jul-2021 22:07:00 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37
+[22-Jul-2021 22:07:00 UTC] PHP Stack trace:
+[22-Jul-2021 22:07:00 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 22:07:00 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:07:54 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37
+[22-Jul-2021 22:07:54 UTC] PHP Stack trace:
+[22-Jul-2021 22:07:54 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 22:07:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:08:37 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37
+[22-Jul-2021 22:08:37 UTC] PHP Stack trace:
+[22-Jul-2021 22:08:37 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[22-Jul-2021 22:08:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 37 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(37): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser('ashishgujral22@...')
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 22:19:24 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[22-Jul-2021 22:19:24 UTC] PHP Stack trace:
+[22-Jul-2021 22:19:24 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[22-Jul-2021 22:19:24 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:15
+[22-Jul-2021 22:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getpicture() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php:57
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[22-Jul-2021 22:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser('ashishgujral22@...')
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 22:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser('ashishgujral22@...')
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 22:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:47
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser('ashishgujral22@...')
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 47
+[22-Jul-2021 22:26:01 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 55
+[22-Jul-2021 22:26:01 UTC] PHP Stack trace:
+[22-Jul-2021 22:26:01 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[22-Jul-2021 22:26:01 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:15
+[22-Jul-2021 22:26:01 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 55 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(15): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:26:51 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 16
+[22-Jul-2021 22:26:51 UTC] PHP Stack trace:
+[22-Jul-2021 22:26:51 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[22-Jul-2021 22:26:51 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 16 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(16): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:28:25 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, object given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 55 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(55): UserDAO::getUser(Object(User))
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(19): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[22-Jul-2021 22:31:07 UTC] PHP Notice:  Undefined index: avatar_name in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[22-Jul-2021 22:31:07 UTC] PHP Stack trace:
+[22-Jul-2021 22:31:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[22-Jul-2021 22:31:07 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:19
+[23-Jul-2021 20:04:28 UTC] PHP Notice:  Undefined variable: studentName in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 21
+[23-Jul-2021 20:04:28 UTC] PHP Stack trace:
+[23-Jul-2021 20:04:28 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:04:28 UTC] PHP   2. Page::header() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:46
+[23-Jul-2021 20:04:28 UTC] PHP Notice:  Undefined variable: studentID in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 21
+[23-Jul-2021 20:04:28 UTC] PHP Stack trace:
+[23-Jul-2021 20:04:28 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:04:28 UTC] PHP   2. Page::header() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:46
+[23-Jul-2021 20:15:21 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 95
+[23-Jul-2021 20:15:21 UTC] PHP Stack trace:
+[23-Jul-2021 20:15:21 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:15:21 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:47
+[23-Jul-2021 20:15:21 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 95
+[23-Jul-2021 20:15:21 UTC] PHP Stack trace:
+[23-Jul-2021 20:15:21 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:15:21 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:47
+[23-Jul-2021 20:15:21 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 95
+[23-Jul-2021 20:15:21 UTC] PHP Stack trace:
+[23-Jul-2021 20:15:21 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:15:21 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:47
+[23-Jul-2021 20:15:21 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Entity\Page.class.php on line 95
+[23-Jul-2021 20:15:21 UTC] PHP Stack trace:
+[23-Jul-2021 20:15:21 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[23-Jul-2021 20:15:21 UTC] PHP   2. Page::displayRegistrationSection() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:47
+[23-Jul-2021 20:21:50 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[23-Jul-2021 20:21:50 UTC] PHP Stack trace:
+[23-Jul-2021 20:21:50 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[23-Jul-2021 20:21:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[23-Jul-2021 20:22:14 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[23-Jul-2021 20:22:14 UTC] PHP Stack trace:
+[23-Jul-2021 20:22:14 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[23-Jul-2021 20:22:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:08:10 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[05-Aug-2021 08:08:10 UTC] PHP Stack trace:
+[05-Aug-2021 08:08:10 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[05-Aug-2021 08:08:10 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[05-Aug-2021 08:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[05-Aug-2021 08:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[05-Aug-2021 08:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[05-Aug-2021 08:12:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[05-Aug-2021 08:12:39 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[05-Aug-2021 08:12:39 UTC] PHP Stack trace:
+[05-Aug-2021 08:12:39 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[05-Aug-2021 08:12:39 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:20
+[05-Aug-2021 08:12:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(57): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(20): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 20
+[05-Aug-2021 08:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[05-Aug-2021 08:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[05-Aug-2021 08:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 20
+[05-Aug-2021 08:17:17 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[05-Aug-2021 08:17:17 UTC] PHP Stack trace:
+[05-Aug-2021 08:17:17 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[05-Aug-2021 08:17:17 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:21
+[05-Aug-2021 08:17:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(57): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(21): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:17:52 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57
+[05-Aug-2021 08:17:52 UTC] PHP Stack trace:
+[05-Aug-2021 08:17:52 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[05-Aug-2021 08:17:52 UTC] PHP   2. Validate::ValidateForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:21
+[05-Aug-2021 08:17:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php on line 57 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\Validate.class.php(57): UserDAO::getUser(NULL)
+#1 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(21): Validate::ValidateForm()
+#2 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:22:17 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[05-Aug-2021 08:22:17 UTC] PHP Stack trace:
+[05-Aug-2021 08:22:17 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[05-Aug-2021 08:22:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(18): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[05-Aug-2021 08:22:47 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[05-Aug-2021 08:22:47 UTC] PHP Stack trace:
+[05-Aug-2021 08:22:47 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[05-Aug-2021 08:22:47 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(19): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[06-Aug-2021 21:04:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\LoginManager.class.php on line 20
+[06-Aug-2021 21:04:24 UTC] PHP Stack trace:
+[06-Aug-2021 21:04:24 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[06-Aug-2021 21:04:24 UTC] PHP   2. LoginManager::verifyLogin() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:36
+[06-Aug-2021 21:04:24 UTC] PHP   3. session_destroy() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\LoginManager.class.php:20
+[06-Aug-2021 21:05:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\LoginManager.class.php on line 20
+[06-Aug-2021 21:05:07 UTC] PHP Stack trace:
+[06-Aug-2021 21:05:07 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:0
+[06-Aug-2021 21:05:07 UTC] PHP   2. LoginManager::verifyLogin() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_login_AGu36004.php:36
+[06-Aug-2021 21:05:07 UTC] PHP   3. session_destroy() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\LoginManager.class.php:20
+[06-Aug-2021 21:13:26 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[06-Aug-2021 21:13:26 UTC] PHP Stack trace:
+[06-Aug-2021 21:13:26 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[06-Aug-2021 21:13:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(19): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[06-Aug-2021 21:18:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 19
+[06-Aug-2021 21:18:42 UTC] PHP Stack trace:
+[06-Aug-2021 21:18:42 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[06-Aug-2021 21:18:42 UTC] PHP   2. session_start() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:19
+[06-Aug-2021 21:18:42 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 20
+[06-Aug-2021 21:18:42 UTC] PHP Stack trace:
+[06-Aug-2021 21:18:42 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[06-Aug-2021 21:18:42 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 20 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php(20): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[06-Aug-2021 21:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on bool in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 29
+[06-Aug-2021 21:52:40 UTC] PHP Notice:  Undefined index: loggedin in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32
+[06-Aug-2021 21:52:40 UTC] PHP Stack trace:
+[06-Aug-2021 21:52:40 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php:0
+[06-Aug-2021 21:52:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to UserDAO::getUser() must be of the type string, null given, called in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php on line 32 and defined in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php:42
+Stack trace:
+#0 C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_profile_logout_AGu36004.php(32): UserDAO::getUser(NULL)
+#1 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\inc\Utility\UserDAO.class.php on line 42
+[06-Aug-2021 22:10:58 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 11
+[06-Aug-2021 22:10:58 UTC] PHP Stack trace:
+[06-Aug-2021 22:10:58 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[06-Aug-2021 22:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 11
+[06-Aug-2021 22:11:22 UTC] PHP Notice:  Undefined variable: user in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
+[06-Aug-2021 22:11:22 UTC] PHP Stack trace:
+[06-Aug-2021 22:11:22 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:0
+[06-Aug-2021 22:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getemail() on null in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab08_AGu36004\Lab08_register_AGu36004.php on line 18
